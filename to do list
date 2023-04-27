@@ -1,1 +1,38 @@
+Replace placeholder sprite images
 
+Find or create new player character sprites (idle, running, jumping, etc.)
+Find or create new enemy sprites (idle, walking, attacking, etc.)
+Find or create new tileset images for platforms and other level objects
+Replace all instances of community-made placeholder sprites with new custom sprites
+Debug and fix movement issues
+
+Investigate and resolve issues related to jumping responsiveness and height/distance
+Test and refine character movement controls for smooth and consistent gameplay
+Address enemy collision detection issues
+
+Review and adjust collision bounds for player character and enemies
+Debug and fix code related to detecting collisions and handling player death
+Correct score calculation
+
+Debug and fix code for adding to the score variable upon defeating enemies and collecting platforms/coins
+Test and verify that the displayed score on the HUD is accurate and updates correctly
+Fix level ending and transitions
+
+Debug and fix the code triggering level transitions upon entering specific map coordinates
+Test and verify that each level loads and transitions properly
+Address character falling through the floor
+
+Investigate and resolve any issues with the character's collider or rigidbody
+Test and refine character-platform interactions to ensure smooth and consistent gameplay
+Optimize image loading and unloading
+
+Debug and fix inconsistencies in how images are loaded and unloaded from memory
+Test and verify that all graphic assets display correctly and consistently
+Fix music looping issues
+
+Review and adjust audio source components for proper looping settings
+Investigate and resolve any potential memory issues related to background music
+Resolve final boss defeat issues
+
+Debug and fix any issues with the boss enemy's scripts and object interactions
+Test and verify that the proper death animation and end level/game win sequence trigger when the final boss is defeated
