@@ -1,0 +1,11 @@
+4/12/23 - Movement is buggy: The player character does not always jump when the 'spacebar' is pressed or does not jump high/far enough. This seems to happen occasionally at random. Needs debugging.
+
+4/20/23 - Enemy collision detection issues: When the player character collides with an enemy, the game does not always register the hit. This allows the player to sometimes pass through enemies without dying. The collision bounds may need adjustment or there may be an issue with the code detecting overlaps.
+
+4/22/23 - Incorrect score calculation: The score displayed on the HUD does not match the number of enemies defeated and platforms/coins collected. The code adding to the score variable upon these events needs reviewed and fixed.
+
+4/23/23 - Level does not end properly: When the player reaches the end of the map, the game does not always load the next level as intended. The code triggering the level transition upon entering certain map coordinates needs double checked.
+
+4/27/23 - Falls through floor: Occasionally when the player character lands on a platform, it falls through the floor for no apparent reason. This may be due to an issue with the character's collider or rigidbody that needs addressed.
+
+4/27/23 - Images do not always load: Some graphic assets such as enemy sprites or tileset images do not load properly when the game starts up, displaying as blank sprites. There seems to be an inconsistency with how images are loaded and unloaded from memory that needs optimized.
