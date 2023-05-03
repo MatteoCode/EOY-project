@@ -36,3 +36,38 @@ Resolve final boss defeat issues
 
 Debug and fix any issues with the boss enemy's scripts and object interactions
 Test and verify that the proper death animation and end level/game win sequence trigger when the final boss is defeated
+
+
+Revise map layouts and designs
+
+Redesign existing map layouts for better flow and gameplay
+Create additional map layouts for new levels
+Adjust enemy placements and types for balanced difficulty
+
+Modify enemy attack patterns and abilities
+
+Add additional enemy attacks and attack animations
+Increase enemy movement speed and agility for more challenging combat
+Adjust enemy stats (health, damage, etc.) for appropriate difficulty scaling
+
+Extend gameplay and add additional levels
+
+Design new level maps and themes
+Create new enemies, sprites and other graphical assets for new levels
+Add level transition and ending sequences for extended gameplay
+Implement a lives system or other mechanics to increase replayability
+
+Revamp main menu and UI
+
+Redesign main menu for improved aesthetics and navigation
+Add additional menus for settings, credits, etc.
+Create new font and style for all in-game text and UI elements
+Add transition animations to main menu for polished experience
+
+Add additional features and polish overall gameplay
+
+Implement a scoring/grading system to rank player performance
+Add visual effects like screen shake, particle systems, etc.
+Include additional audio like background music, sound effects, ambient noise, etc.
+Playtest extensively and refine gameplay, controls, UI, audio, etc. for cohesive experience
+Squash any remaining bugs and optimize performance
