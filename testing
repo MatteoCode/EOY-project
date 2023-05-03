@@ -9,3 +9,5 @@
 4/27/23 - Falls through floor: Occasionally when the player character lands on a platform, it falls through the floor for no apparent reason. This may be due to an issue with the character's collider or rigidbody that needs addressed.
 
 4/27/23 - Images do not always load: Some graphic assets such as enemy sprites or tileset images do not load properly when the game starts up, displaying as blank sprites. There seems to be an inconsistency with how images are loaded and unloaded from memory that needs optimized.
+
+5/3/23 - 5/3/23 - Did not test, focused on image quality: Spent time refining and improving image assets without properly testing and debugging current known issues from previous testing sessions. Image quality and polish is important but should not come before addressing gameplay and functionality bugs. Additional testing required.
