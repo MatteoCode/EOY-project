@@ -11,3 +11,5 @@
 4/27/23 - Images do not always load: Some graphic assets such as enemy sprites or tileset images do not load properly when the game starts up, displaying as blank sprites. There seems to be an inconsistency with how images are loaded and unloaded from memory that needs optimized.
 
 5/3/23 - Did not test, focused on image quality: Spent time refining and improving image assets without properly testing and debugging current known issues from previous testing sessions. Image quality and polish is important but should not come before addressing gameplay and functionality bugs. Additional testing required.
+
+5/5/23 - Visual bugs with new theme: After changing the visual theme of the project, some elements of the game appear distorted or misaligned. This may be due to the new graphic assets not fitting properly with the existing code. The layout and positioning of elements needs reviewed and adjusted to fit with the new theme.
