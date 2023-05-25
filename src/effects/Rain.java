@@ -49,8 +49,8 @@ public class Rain {
 	}
 
 	public void draw(Graphics g, int xLvlOffset) {
-		for (Point2D.Float p : drops)
-			g.drawImage(rainParticle, (int) p.getX() - xLvlOffset, (int) p.getY(), 3, 12, null);
+		//for (Point2D.Float p : drops)
+			//g.drawImage(rainParticle, (int) p.getX() - xLvlOffset, (int) p.getY(), 3, 12, null);
 	}
 
 }
